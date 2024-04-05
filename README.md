@@ -3,7 +3,7 @@
 docker-tomcat-webapp
 A basic tutorial on running a web app on Tomcat using Docker 
 
-Steps:
+Steps
 Install Docker.
 Clone this repository - $git clone https://github.com/Sneha982/Devops2024Training-Java-WAR.git
 cd Devops2024Training-Java-WAR # from your root directory
