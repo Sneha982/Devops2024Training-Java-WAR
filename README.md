@@ -1,7 +1,6 @@
 # Devops2024Training-Java-WAR
 
-docker-tomcat-webapp
-A basic tutorial on running a web app on Tomcat using Docker 
+docker-tomcat-webapp- A basic tutorial on running a web app on Tomcat using Docker 
 
 Steps
 Install Docker.
