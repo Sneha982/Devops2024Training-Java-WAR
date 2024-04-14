@@ -1,4 +1,4 @@
-# Devops2024Training-Java-WAR
+#-Java-WAR
 
 **docker-tomcat-webapp- A basic tutorial on running a web app on Tomcat using Docker ***
 
